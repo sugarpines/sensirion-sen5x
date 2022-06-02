@@ -98,5 +98,5 @@ Refer to [Sensirion SEN5x Datasheet](https://sensirion.com/products/catalog/SEN5
 | clear_status()                        | None                 | None                                |
 | reset()                               | None                 | None                                |
 
-##License
+## License
 This project is released under the MIT License.
